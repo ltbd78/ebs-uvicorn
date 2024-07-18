@@ -1,0 +1,9 @@
+[project]
+name = "sandbox"
+version = "0.0.1"
+dependencies = [
+    "fastapi",
+]
+
+[project.optional-dependencies]
+dev = ["build"]

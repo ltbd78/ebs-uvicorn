@@ -1,0 +1,8 @@
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+*egg-info
+.elasticbeanstalk/*
+.venv
+__pycache__
+build
+dist
